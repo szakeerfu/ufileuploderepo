@@ -1,0 +1,26 @@
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px dashed rgb(59, 162, 193);
+    width: 42vw;
+    height: 345px;
+    cursor: pointer;
+    margin: auto;
+    margin-top: 7rem;
+}
+.input:hover{
+    background-color: rgb(244, 255, 255);
+    
+}
+button{
+    width: 22%;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 22px;
+    height: 10%;
+    background-color: rgb(14, 203, 236);
+}
+ 
